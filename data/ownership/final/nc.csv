@@ -1,0 +1,1015 @@
+name,provider_id,type,region,state,address,phone,address,particip_date,certified_beds,hospital_based,ownership_type,termination_code,termination_date,legal_owner,is_brightspring
+CASWELL CENTER,34G001,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2415 W. VERNON AVENUE
+KINSTON, NC 28501",252 559-5100,"2415 W. VERNON AVENUE
+KINSTON, NC 28501",1974-03-31,405,No,Government,,,,False
+MURDOCH DEVELOPMENTAL CENTER,34G002,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1600 EAST C STREET
+BUTNER, NC 27509",919 575-7734,"1600 EAST C STREET
+BUTNER, NC 27509",1974-03-31,657,No,Government,,,,False
+J. IVERSON RIDDLE DEVELOPMENTAL CENTER,34G003,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"300 ENOLA ROAD
+MORGANTON, NC 28655",828 433-2711,"300 ENOLA ROAD
+MORGANTON, NC 28655",1974-03-31,490,No,Government,,,,False
+O'BERRY NEURO-MEDICAL TREATMENT CENTER,34G004,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"400 OLD SMITHFIELD RD
+GOLDSBORO, NC 27530",919 731-3661,"400 OLD SMITHFIELD RD
+GOLDSBORO, NC 27530",1974-03-31,485,Yes,Government,,,,False
+BEAR CREEK,34G006,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5840 GREENWOOD AVENUE
+LA GRANGE, NC 28551",252 566-9181,"5840 GREENWOOD AVENUE
+LA GRANGE, NC 28551",1975-06-01,113,No,For Profit,,,"RHA Health Services NC, LLC",False
+WALNUT CREEK,34G009,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5709 US 70 EAST
+GOLDSBORO, NC 27534",919 778-3524,"5709 US 70 EAST
+GOLDSBORO, NC 27534",1980-01-18,37,No,For Profit,,,"RHA Health Services NC, LLC",False
+SCI-BURKE ICF/MR GROUP HOME,34G010,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"101 STEPHENS DRIVE
+MORGANTON, NC 28655",828 438-6243,"101 STEPHENS DRIVE
+MORGANTON, NC 28655",1980-05-14,5,No,Non-Profit,,,"Skill Creations, Inc.",False
+BOST CHILDREN'S CENTER,34G011,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5300 HIGHWAY 200
+CONCORD, NC 28025",704 786-1405,"5300 HIGHWAY 200
+CONCORD, NC 28025",1980-08-01,10,No,Non-Profit,,,"Piedmont Residential Development Center, Inc.",False
+GRANVILLE ICF/MR GROUP HOME,34G013,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5509 DORSEY ROAD
+OXFORD, NC 27565",919 693-4610,"5509 DORSEY ROAD
+OXFORD, NC 27565",1981-06-22,5,No,For Profit,,,"RHA Health Services NC, LLC",False
+FOX RUN/ROBIN'S NEST GROUP HOME,34G015,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3845 ROBIN'S NEST ROAD
+LA GRANGE, NC 28551",252 566-9543,"3845 ROBIN'S NEST ROAD
+LA GRANGE, NC 28551",1982-06-08,12,No,For Profit,,,"RHA Health Services NC, LLC",False
+RIVERBEND,34G017,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"140 PIRATES ROAD
+NEW BERN, NC 28562",252 638-6519,"140 PIRATES ROAD
+NEW BERN, NC 28562",1983-06-03,125,No,For Profit,,,"RHA Health Services NC, LLC",False
+SPRINGDALE LANE GROUP HOME,34G018,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"934 SPRINGDALE LANE
+GASTONIA, NC 28052",704 867-3473,"934 SPRINGDALE LANE
+GASTONIA, NC 28052",1983-12-14,5,No,Non-Profit,,,"Gaston Residential Services- ICF/MR, Inc.",False
+MICHIGAN STREET HOME,34G019,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1006 MICHIGAN STREET
+KANNAPOLIS, NC 28081",704 788-2304,"1006 MICHIGAN STREET
+KANNAPOLIS, NC 28081",1984-06-14,5,No,Non-Profit,,,"Piedmont Residential Developmental Center, Inc.",False
+ROUSE'S GROUP HOME,34G020,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5949 NC 135
+STONEVILLE, NC 27048",336 427-0609,"5949 NC 135
+STONEVILLE, NC 27048",1984-06-28,30,No,Non-Profit,,,"Rouse's Group Home, Inc.",False
+"RALPH SCOTT LIFESERVICES, INC/TOWN BRANCH RD",34G021,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"710 TOWN BRANCH RD
+GRAHAM, NC 27253",336 227-1011,"710 TOWN BRANCH RD
+GRAHAM, NC 27253",1984-08-23,6,No,Non-Profit,,,"Ralph Scott Lifeservices, Inc.",False
+"RALPH SCOTT LIFESERVICES, INC/POPULAR STREET",34G022,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"328 POPLAR STREET
+GRAHAM, NC 27253",336 227-1011,"328 POPLAR STREET
+GRAHAM, NC 27253",1984-08-23,6,No,Non-Profit,,,"Ralph Scott Lifeservices, Inc.",False
+PITT CO GROUP HOME #1,34G023,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"6570 FAIRWAY DRIVE
+GRIFTON, NC 28530",252 524-3993,"6570 FAIRWAY DRIVE
+GRIFTON, NC 28530",1984-07-19,6,No,Non-Profit,,,"Pitt Co. GH Board for MR, Autistic Persons, Inc.",False
+PINEVIEW,34G024,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5260 PINEVIEW DRIVE
+WINSTON SALEM, NC 27105",336 744-1805,"5260 PINEVIEW DRIVE
+WINSTON SALEM, NC 27105",1984-10-23,5,No,Non-Profit,,,Monarch,False
+NEW RIVER COTTAGE INC,34G026,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"82 DAVIS LANE
+SPARTA, NC 28675",336 372-2592,"82 DAVIS LANE
+SPARTA, NC 28675",1985-03-01,5,No,Non-Profit,,,"New River Cottage, Inc.",False
+SCOTTHURST I & II,34G027,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"174 HOOTS DRIVE
+WINSTON-SALEM, NC 27107",336 764-3553,"174 HOOTS DRIVE
+WINSTON-SALEM, NC 27107",1985-03-11,12,No,For Profit,,,"RHA Health Services NC, LLC",False
+"LIFE, INC WILLIAM STREET HOME",34G028,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"407 NORTH WILLIAM STREET
+GOLDSBORO, NC 27530",919 734-1402,"407 NORTH WILLIAM STREET
+GOLDSBORO, NC 27530",1985-04-02,6,No,For Profit,,,"Life, Inc.",False
+ROSEANNE GROUP HOME,34G029,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"900 ROSEANNE DR
+KINSTON, NC 28504",252 523-4542,"900 ROSEANNE DR
+KINSTON, NC 28504",1985-04-11,5,No,For Profit,,,"Howell Support Services, LLC",False
+SHERWOOD PARK HOME,34G030,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"126 ROBINHOOD LANE
+ABERDEEN, NC 28315",910 944-7002,"126 ROBINHOOD LANE
+ABERDEEN, NC 28315",1985-05-13,15,No,For Profit,,,"RHA Health Services NC, LLC",False
+BLUEWEST OPPORTUNITIES-ORA HOUSE,34G031,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"95 ORA STREET
+ASHEVILLE, NC 28801",828 253-0291,"95 ORA STREET
+ASHEVILLE, NC 28801",1985-05-28,6,No,Non-Profit,,,"BlueWest Opportunities, Inc.",False
+SMOKY ICF/MR GROUP HOME,34G032,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"115 STORYBOOK LANE
+SYLVA, NC 28779",828 586-3632,"115 STORYBOOK LANE
+SYLVA, NC 28779",1985-08-14,6,No,Non-Profit,,,"Macon Citizens Habilities, Inc.",False
+SOUTHRIDGE ROAD,34G033,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"301 SOUTHRIDGE RD
+JAMESTOWN, NC 27282",336 454-1213,"301 SOUTHRIDGE RD
+JAMESTOWN, NC 27282",1985-08-30,5,No,Non-Profit,,,Monarch,False
+"LIFE, INC. WALNUT STREET GROUP HOME",34G034,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1011 EAST WALNUT STREET
+GOLDSBORO, NC 27530",919 736-7668,"1011 EAST WALNUT STREET
+GOLDSBORO, NC 27530",1985-10-08,6,No,For Profit,,,"LIFE, Inc.",False
+SILO DRIVE FACILITY-CHAPEL HILL,34G035,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"111 SILO DRIVE
+CHAPEL HILL, NC 27514",919 942-4172,"111 SILO DRIVE
+CHAPEL HILL, NC 27514",1985-12-13,6,No,Non-Profit,,,"Residential Services, Inc.",False
+SEVEN OAKS ROAD-DURHAM,34G036,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"614 SEVEN OAKS ROAD
+DURHAM, NC 27704",919 560-7441,"614 SEVEN OAKS ROAD
+DURHAM, NC 27704",1985-12-20,5,No,For Profit,,,VOCA Corporation of North Carolina,True
+MALLARD LANE CENTER,34G037,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"142 MALLARD LANE
+ROCKINGHAM, NC 28379",910 895-3428,"142 MALLARD LANE
+ROCKINGHAM, NC 28379",1986-01-17,5,No,Non-Profit,,,Monarch,False
+CLEAR CREEK,34G038,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"11950 HOWELL CENTER DRIVE
+CHARLOTTE, NC 28227",704 545-7200,"11950 HOWELL CENTER DRIVE
+CHARLOTTE, NC 28227",1986-02-27,120,No,Non-Profit,,,"RHA Health Services NC, LLC",False
+TAMMY LYNN CENTER-ADULT RESIDENTIAL,34G039,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"737 CHAPPELL DRIVE
+RALEIGH, NC 27606",919 832-3909,"737 CHAPPELL DRIVE
+RALEIGH, NC 27606",1986-02-28,10,No,Non-Profit,,,"TLC Operations, Inc.",False
+SKILL CREATIONS,34G040,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2101 ROYALL AVE
+GOLDSBORO, NC 27534",919 736-7471,"2101 ROYALL AVE
+GOLDSBORO, NC 27534",1986-06-04,15,No,Non-Profit,,,"Skill Creations, Inc.",False
+COUNTRY MANOR GROUP HOME,34G041,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1070 PACKING PLANT ROAD
+SMITHFIELD, NC 27577",919 934-9424,"1070 PACKING PLANT ROAD
+SMITHFIELD, NC 27577",1986-07-08,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+ERWIN #2,34G042,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"202 WEST B STREET
+ERWIN, NC 28339",910 897-2854,"202 WEST B STREET
+ERWIN, NC 28339",1986-07-22,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+ERWIN AVENUE HOME,34G043,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"100 ERWIN AVENUE
+ERWIN, NC 28339",910 897-8093,"100 ERWIN AVENUE
+ERWIN, NC 28339",1986-07-17,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+HEATH AVENUE HOME,34G044,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"105 EAST HEATH AVE
+SMITHFIELD, NC 27577",919 934-1573,"105 EAST HEATH AVE
+SMITHFIELD, NC 27577",1986-07-23,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+CANTERBURY ROAD HOME,34G045,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"214 CANTERBURY ROAD
+SMITHFIELD, NC 27577",919 934-5907,"214 CANTERBURY ROAD
+SMITHFIELD, NC 27577",1986-07-23,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+LILLINGTON GROUP HOME,34G046,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1110 NC 210 SOUTH
+LILLINGTON, NC 27546",919 893-9121,"1110 NC 210 SOUTH
+LILLINGTON, NC 27546",1986-08-01,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+SKILL CREATIONS OF CLINTON,34G047,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"223 FOREST TRAIL
+CLINTON, NC 28328",910 592-0110,"223 FOREST TRAIL
+CLINTON, NC 28328",1986-09-09,15,No,Non-Profit,,,"Skill Creations, Inc.",False
+ROCKWELL 1 & 2,34G048,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"HIGHWAY 152 EAST 6330
+ROCKWELL, NC 28138",704 278-9681,"HIGHWAY 152 EAST 6330
+ROCKWELL, NC 28138",1986-10-10,12,No,For Profit,,,"RHA Health Services NC, LLC",False
+"RESIDENTIAL SERVICES, INC. RETIREMENT CENTER",34G050,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"6310 MOUNT HERMAN CHURCH ROAD
+DURHAM, NC 27705",919 383-4444,"6310 MOUNT HERMAN CHURCH ROAD
+DURHAM, NC 27705",1987-01-12,15,No,Non-Profit,,,"Residential Services, Inc.",False
+LAURA SPRINGS ROAD HOME,34G051,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"309 LAURA SPRINGS DR
+SALISBURY, NC 28144",704 278-9681,"309 LAURA SPRINGS DR
+SALISBURY, NC 28144",1987-03-03,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+MYRON PLACE,34G053,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"219 MYRON PLACE
+SALISBURY, NC 28144",704 278-9681,"219 MYRON PLACE
+SALISBURY, NC 28144",1987-12-03,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+SKILL CREATIONS OF SANFORD,34G054,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1751 HAWKINS AVENUE
+SANFORD, NC 27330",919 775-5622,"1751 HAWKINS AVENUE
+SANFORD, NC 27330",1987-03-23,15,No,Non-Profit,,,"Skill Creations, Inc.",False
+FANJOY HOME #1,34G055,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"235 FANJOY ROAD
+STATESVILLE, NC 28625",704 872-3257,"235 FANJOY ROAD
+STATESVILLE, NC 28625",1987-05-21,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+SKILL CREATIONS OF KENANSVILLE,34G056,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"200 SOUTH STOKES STREET
+KENANSVILLE, NC 28349",910 296-0078,"200 SOUTH STOKES STREET
+KENANSVILLE, NC 28349",1987-07-22,15,No,Non-Profit,,,"Skill Creations, Inc.",False
+HAYWOOD COUNTY GROUP HOME #3,34G057,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"401 WOODLAWN CIRCLE
+CLYDE, NC 28721",828 627-3822,"401 WOODLAWN CIRCLE
+CLYDE, NC 28721",1987-07-27,5,No,Non-Profit,,,"The Arc of Haywood County, Inc.",False
+OLD FARM ROAD,34G058,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"409 OLD FARM ROAD
+RAEFORD, NC 28376",910 424-2121,"409 OLD FARM ROAD
+RAEFORD, NC 28376",1987-06-29,6,No,Government,,,"RHA Health Services NC, LLC",False
+BELMONT GROUP HOME,34G059,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"100 BELMONT MOUNT HOLLY ROAD/205 WIMMER CIRCLE
+BELMONT, NC 28012",704 861-9280,"100 BELMONT MOUNT HOLLY ROAD/205 WIMMER CIRCLE
+BELMONT, NC 28012",1987-08-06,5,No,Non-Profit,,,"Gaston Residential Services- ICF/MR, Inc.",False
+SMITH STREET HOME,34G060,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"112 SMITH STREET
+CLEVELAND, NC 27013",704 278-9681,"112 SMITH STREET
+CLEVELAND, NC 27013",1987-07-29,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+GEORGIA COURT,34G061,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"107 MISS GEORGIA COURT
+CARY, NC 27511",919 467-2857,"107 MISS GEORGIA COURT
+CARY, NC 27511",1987-09-24,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+BOXWOOD ACRES,34G062,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3464 US HWY 601 SOUTH
+MOCKSVILLE, NC 27028",704 278-9681,"3464 US HWY 601 SOUTH
+MOCKSVILLE, NC 27028",1987-11-24,6,No,Non-Profit,,,"RHA Health Services NC, LLC",False
+SKILL CREATIONS OF KINSTON,34G063,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"901 DOCTORS DRIVE
+KINSTON, NC 28503",252 522-1738,"901 DOCTORS DRIVE
+KINSTON, NC 28503",1987-10-16,15,No,Non-Profit,,,"Skill Creations, Inc.",False
+TWINBROOKS,34G064,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"189 FAIRMONT DRIVE
+MOCKSVILLE, NC 27028",704 278-9681,"189 FAIRMONT DRIVE
+MOCKSVILLE, NC 27028",1987-11-04,6,No,Non-Profit,,,"RHA Health Services NC, LLC",False
+HUNTLEIGH,34G065,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3300 HUNTLEIGH DRIVE
+RALEIGH, NC 27604",919 876-3834,"3300 HUNTLEIGH DRIVE
+RALEIGH, NC 27604",1987-10-19,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+ROLLING MEADOWS,34G066,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2533 ROLLINGS MEADOWS DRIVE
+RALEIGH, NC 27603",919 662-0047,"2533 ROLLINGS MEADOWS DRIVE
+RALEIGH, NC 27603",1987-12-07,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+COUNTRY COVE GROUP HOME,34G067,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"28 HILLPARK DRIVE
+HENDERSONVILLE, NC 28739",828 698-0623,"28 HILLPARK DRIVE
+HENDERSONVILLE, NC 28739",1987-12-09,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+RIVERVIEW HOME,34G068,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1793 RIVERVIEW ROAD
+LINCOLNTON, NC 28092",704 732-1606,"1793 RIVERVIEW ROAD
+LINCOLNTON, NC 28092",2000-08-16,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+MARIE G. SMITH GROUP HOME,34G069,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1921 PALMETTO DRIVE
+ALBEMARLE, NC 28001",704 982-8065,"1921 PALMETTO DRIVE
+ALBEMARLE, NC 28001",1987-12-22,6,No,Non-Profit,,,GHA Autism Supports,False
+PLEASANT ACRES,34G070,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"447 PLEASANT ACRES DRIVE
+MOCKSVILLE, NC 27028",704 278-9681,"447 PLEASANT ACRES DRIVE
+MOCKSVILLE, NC 27028",1988-01-06,6,No,Government,,,"RHA Health Services NC, LLC",False
+SKILL CREATIONS OF TARBORO,34G071,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"811 WESTERN BOULEVARD
+TARBORO, NC 27886",252 641-1141,"811 WESTERN BOULEVARD
+TARBORO, NC 27886",1988-01-06,15,No,Non-Profit,,,"Skill Creations, Inc.",False
+"T.L.C. HOME, INC.",34G072,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1775 HAWKINS AVENUE
+SANFORD, NC 27330",919 774-4355,"1775 HAWKINS AVENUE
+SANFORD, NC 27330",1988-01-21,10,No,Non-Profit,,,"T.L.C. Homes, Inc.",False
+SUNNY HILL GROUP HOME #1,34G073,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"261 SUNNY HILL DRIVE
+LINCOLNTON, NC 28092",704 732-5609,"261 SUNNY HILL DRIVE
+LINCOLNTON, NC 28092",1988-01-20,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+ASHLEY HEIGHTS HOME,34G074,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2990 RESERVATION ROAD
+ABERDEEN, NC 28315",910 424-2121,"2990 RESERVATION ROAD
+ABERDEEN, NC 28315",1988-02-04,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+CHILES AVENUE GROUP HOME,34G075,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"22 CHILES AVENUE
+ASHEVILLE, NC 28803",828 254-8068,"22 CHILES AVENUE
+ASHEVILLE, NC 28803",1988-02-04,6,No,Non-Profit,,,"Mountain Area Residential Facilities, Inc.",False
+IWC-ROSE STREET HOME,34G076,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1 ROSE STREET W
+ASHEVILLE, NC 28803",828 274-9541,"1 ROSE STREET W
+ASHEVILLE, NC 28803",1988-02-05,12,No,Non-Profit,,,"Irene Wortham Residential Center, Inc.",False
+BONNIE LANE GROUP HOME,34G077,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"121 BONNIE LANE
+STATESVILLE, NC 28625",704 872-3257,"121 BONNIE LANE
+STATESVILLE, NC 28625",1988-02-18,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+WATSON'S GROUP HOME,34G078,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1310 ELWELL AVENUE
+GREENSBORO, NC 27420",336 275-1461,"1310 ELWELL AVENUE
+GREENSBORO, NC 27420",1988-04-04,6,No,For Profit,,,Addie A. Watson,False
+SKILL CREATIONS OF WILSON,34G079,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2000 MARTIN LUTHER KING JR PARKWAY
+WILSON, NC 27893",252 291-9700,"2000 MARTIN LUTHER KING JR PARKWAY
+WILSON, NC 27893",1988-04-26,15,No,Non-Profit,,,"Skill Creations, Inc.",False
+MOSS I GROUP HOME,34G080,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1617 MOSS SPRINGS ROAD
+ALBEMARLE, NC 28001",704 982-5882,"1617 MOSS SPRINGS ROAD
+ALBEMARLE, NC 28001",1988-05-02,5,No,Non-Profit,,,Monarch,False
+FANJOY HOME #2,34G081,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"450 TWIN OAKS ROAD
+STATESVILLE, NC 28625",704 872-3257,"450 TWIN OAKS ROAD
+STATESVILLE, NC 28625",1987-09-15,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+BLANCHE DRIVE,34G083,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"6208 BLANCHE DRIVE
+RALEIGH, NC 27607",919 859-1450,"6208 BLANCHE DRIVE
+RALEIGH, NC 27607",1988-06-06,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+SKILL CREATIONS OF GREENVILLE,34G084,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2701 W 5TH STREET
+GREENVILLE, NC 27835",919 752-8869,"2701 W 5TH STREET
+GREENVILLE, NC 27835",1988-06-07,15,No,Non-Profit,,,"Skill Creations, Inc.",False
+OAKDALE GROUP HOME,34G085,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"436 MOCKSVILLE HWY
+STATESVILLE, NC 28625",704 872-3257,"436 MOCKSVILLE HWY
+STATESVILLE, NC 28625",1988-06-09,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+DAL-WAN HEIGHTS GROUP HOME,34G086,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"748 SHARON DR.
+STATESVILLE, NC 28677",704 872-2583,"748 SHARON DR.
+STATESVILLE, NC 28677",1988-06-09,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+PENNY LANE #1,34G087,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2840 HWY 70 EAST
+CLAREMONT, NC 28610",828 459-0588,"2840 HWY 70 EAST
+CLAREMONT, NC 28610",1988-07-12,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+CHERRYVILLE GROUP HOME,34G088,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1102 REQUA ROAD
+CHERRYVILLE, NC 28021",704 435-4608,"1102 REQUA ROAD
+CHERRYVILLE, NC 28021",1988-08-18,5,No,Non-Profit,,,"Gaston Residential Services - ICF/MR, Inc.",False
+BLUEWEST OPPORTUNITIES-SWANNANOA RESIDENTIAL,34G089,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"91 POPLAR CIRCLE
+SWANNANOA, NC 28778",828 686-7385,"91 POPLAR CIRCLE
+SWANNANOA, NC 28778",1988-09-01,32,No,Non-Profit,,,"BlueWest Opportunities, Inc.",False
+"LIFE, INC OAKDALE HOME",34G090,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"907 OAKDALE AVE
+NEW BERN, NC 28560",252 636-1288,"907 OAKDALE AVE
+NEW BERN, NC 28560",1988-09-27,6,No,For Profit,,,"Life, Inc.",False
+"LIFE, INC LAVENHAM GROUP HOME",34G091,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3700 LAVENHAM ROAD
+NEW BERN, NC 28560",252 633-5559,"3700 LAVENHAM ROAD
+NEW BERN, NC 28560",1988-09-27,6,No,For Profit,,,"Life, Inc.",False
+BLUEWEST OPPORTUNITIES-MARS HILLS RESIDENTIAL SERV,34G092,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"BLUE RIDGE HOMES DRIVE #50
+MARS HILL, NC 28754",828 689-9265,"BLUE RIDGE HOMES DRIVE #50
+MARS HILL, NC 28754",1988-09-22,32,No,Government,,,"BlueWest Opportunities, Inc.",False
+BROOKWOOD HOME,34G093,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1254 BROOKHAVEN DRIVE
+LINCOLNTON, NC 28092",704 735-3199,"1254 BROOKHAVEN DRIVE
+LINCOLNTON, NC 28092",1988-10-05,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+HOPE MILLS HOME,34G094,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5713 NEWTON STREET
+HOPE MILLS, NC 28348",910 424-2121,"5713 NEWTON STREET
+HOPE MILLS, NC 28348",1988-10-12,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+OAK STREET GROUP HOME-ST. MARK,34G095,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1801 OAK STREET
+CHARLOTTE, NC 28269",704 596-4135,"1801 OAK STREET
+CHARLOTTE, NC 28269",1988-10-20,6,No,Non-Profit,,,Lifespan Incorporated,False
+VOCA-DENBUR DRIVE GROUP HOME,34G096,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"8324 DENBUR DRIVE
+CHARLOTTE, NC 28215",704 519-0077,"8324 DENBUR DRIVE
+CHARLOTTE, NC 28215",1988-10-20,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+SOUTHERN AVENUE HOME,34G097,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2001 SOUTHERN AVENUE
+FAYETTEVILLE, NC 28301",910 424-2121,"2001 SOUTHERN AVENUE
+FAYETTEVILLE, NC 28301",1988-10-20,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+"LIFETIME RESOURCES, INC ECHO FARMS GROUP HOME",34G100,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"220 DORCHESTER PLACE
+WILMINGTON, NC 28412",910 762-1189,"220 DORCHESTER PLACE
+WILMINGTON, NC 28412",1988-11-30,6,No,Non-Profit,,,"Lifetime Resources, Inc.",False
+MYRTLE GROVE GROUP HOME,34G101,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"6732 MYRTLE GROVE ROAD
+WILMINGTON, NC 28409",910 762-1189,"6732 MYRTLE GROVE ROAD
+WILMINGTON, NC 28409",1988-11-30,6,No,Non-Profit,,,"Lifetime Resources, Inc.",False
+"LIFE, INC CHERRY LANE",34G102,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1104 CHERRY LANE
+NEW BERN, NC 28560",252 633-5565,"1104 CHERRY LANE
+NEW BERN, NC 28560",1988-12-21,6,No,For Profit,,,"Life, Inc.",False
+MY PLACE,34G103,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1050 HOGAN STREET
+FAYETTEVILLE, NC 28301",910 867-7675,"1050 HOGAN STREET
+FAYETTEVILLE, NC 28301",1988-11-03,6,No,For Profit,,,"Midstate Health Systems, Inc.",False
+GREENVILLE LOOP GROUP HOME,34G104,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"6100 GREENVILLE LOOP ROAD
+WILMINGTON, NC 28409",910 762-1189,"6100 GREENVILLE LOOP ROAD
+WILMINGTON, NC 28409",1988-11-30,6,No,Non-Profit,,,"Lifetime Resources, Inc.",False
+23RD STREET HOME,34G105,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"804 EAST 23RD STREET
+NEWTON, NC 28658",828 465-2114,"804 EAST 23RD STREET
+NEWTON, NC 28658",1989-03-02,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+MACON COUNTY GROUP HOME,34G106,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"170 SECOND STREET
+FRANKLIN, NC 28744",828 524-5888,"170 SECOND STREET
+FRANKLIN, NC 28744",1989-03-22,6,No,Non-Profit,,,"Macon Citizens Habilities, Inc.",False
+MEEK ROAD GROUP HOME,34G107,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"138 MEEK ROAD
+GASTONIA, NC 28056",704 861-9280,"138 MEEK ROAD
+GASTONIA, NC 28056",1989-04-07,5,No,Non-Profit,,,"Gaston Residential Services-ICF/MR, Inc.",False
+GATEWOOD,34G108,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1508 GATEWOOD AVENUE
+GREENSBORO, NC 27405",336 273-6105,"1508 GATEWOOD AVENUE
+GREENSBORO, NC 27405",1989-04-12,15,No,Government,,,"RHA Health Services NC, LLC",False
+PENNY LANE II,34G109,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2830 HIGHWAY 70 EAST
+CLAREMONT, NC 28610",828 459-1339,"2830 HIGHWAY 70 EAST
+CLAREMONT, NC 28610",1989-05-03,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+MOSS II GROUP HOME,34G110,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1615-B MOSS SPRINGS ROAD
+ALBEMARLE, NC 28001",704 982-5882,"1615-B MOSS SPRINGS ROAD
+ALBEMARLE, NC 28001",1989-05-24,6,No,Non-Profit,,,Monarch,False
+PILOTVIEW,34G111,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"209 PILOT VIEW DRIVE
+KING, NC 27021",336 983-0493,"209 PILOT VIEW DRIVE
+KING, NC 27021",1989-05-31,5,No,Non-Profit,,,Monarch,False
+EASTBROOK,34G112,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"110 EASTBROOK DRIVE
+RED SPRINGS, NC 28377",910 843-3804,"110 EASTBROOK DRIVE
+RED SPRINGS, NC 28377",1989-05-23,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+MOUNTAIN RIDGE GROUP HOME,34G113,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"810 KING ARTHUR DRIVE
+GASTONIA, NC 28054",704 824-0875,"810 KING ARTHUR DRIVE
+GASTONIA, NC 28054",1989-05-04,6,No,Non-Profit,,,Lutheran Family Services in the Carolinas,False
+FOREST CREEK GROUP HOME,34G114,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5117 FOREST CREEK DRIVE
+RALEIGH, NC 27606",919 833-1371,"5117 FOREST CREEK DRIVE
+RALEIGH, NC 27606",1989-06-07,5,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+DARTMOUTH ROAD GROUP HOME,34G115,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"210 DARTMOUTH ROAD
+RALEIGH, NC 27606",919 782-2895,"210 DARTMOUTH ROAD
+RALEIGH, NC 27606",1989-06-07,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+WEST MAIN STREET FACILITY-CARRBORO,34G116,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1003 W MAIN STREET
+CARRBORO, NC 27510",919 942-7341,"1003 W MAIN STREET
+CARRBORO, NC 27510",1989-06-13,6,No,Non-Profit,,,"Residential Services, Inc.",False
+MEADOWVIEW HOME,34G117,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2723 BOBWHITE CIRCLE
+WINGATE, NC 28174",704 233-9368,"2723 BOBWHITE CIRCLE
+WINGATE, NC 28174",1989-07-28,6,No,Non-Profit,,,Monarch,False
+SHANNONBROOK HOME,34G118,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"914 WEST FIRST STREET
+NEWTON, NC 28658",828 465-2003,"914 WEST FIRST STREET
+NEWTON, NC 28658",1989-08-16,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+WENDOVER HOME,34G119,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"631 OLD PARK ROAD
+MAIDEN, NC 28650",828 428-3122,"631 OLD PARK ROAD
+MAIDEN, NC 28650",1989-08-30,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+LEWIS FORK HOMES I AND II,34G120,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1358 & 1388 LEWIS FORK BAPTIST CHURCH RD
+FERGUSON, NC 28624",336 973-8151,"1358 & 1388 LEWIS FORK BAPTIST CHURCH RD
+FERGUSON, NC 28624",1989-09-15,12,No,For Profit,,,"RHA Health Services NC, LLC",False
+QUEEN'S POND,34G121,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"651 QUEEN'S CREEK ROAD
+HUBERT, NC 28539",910 326-1425,"651 QUEEN'S CREEK ROAD
+HUBERT, NC 28539",1989-09-19,14,No,Non-Profit,,,"Carobell, Inc.",False
+ROBERT W THOMPSON GROUP HOME,34G122,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1920 WOODHAVEN DR
+ALBEMARLE, NC 28001",704 982-9480,"1920 WOODHAVEN DR
+ALBEMARLE, NC 28001",1989-08-15,6,No,Non-Profit,,,GHA Autism Supports,False
+THE ATRIUM/THE RESPITE CENTER,34G123,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"101 HORIZONS LANE
+RURAL HALL, NC 27045",336 767-2411,"101 HORIZONS LANE
+RURAL HALL, NC 27045",1989-10-12,30,No,Non-Profit,,,"Horizons Residential Care Center, Inc.",False
+TAMMY LYNN CENTER/CHILDREN,34G124,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"743 & 745 CHAPPELL DRIVE
+RALEIGH, NC 27606",919 832-3909,"743 & 745 CHAPPELL DRIVE
+RALEIGH, NC 27606",1989-11-15,20,No,Non-Profit,,,,False
+CHANDLER ROAD,34G125,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"342 CHANDLER ROAD
+DURHAM, NC 27707",919 528-2558,"342 CHANDLER ROAD
+DURHAM, NC 27707",1989-11-13,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+VOCA-WELBORN AVE,34G126,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1002 WELBORN AVENUE
+WILKESBORO, NC 28697",336 667-0688,"1002 WELBORN AVENUE
+WILKESBORO, NC 28697",1989-12-06,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+PITT COUNTY GROUP HOME #2,34G127,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4263 NORTH EDGE ROAD
+AYDEN, NC 28513",252 746-8079,"4263 NORTH EDGE ROAD
+AYDEN, NC 28513",1989-11-07,6,No,Non-Profit,,,"Pitt Co GH Board for MR, Autistic Persons, Inc.",False
+VOCA-KIMSEY,34G128,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1305 OLD HWY 60
+WILKESBORO, NC 28697",336 838-4500,"1305 OLD HWY 60
+WILKESBORO, NC 28697",1989-12-06,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+WAKULLA I & II,34G129,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5792 & 5812 NC HWY 71 NORTH
+MAXTON, NC 28364",910 843-3760,"5792 & 5812 NC HWY 71 NORTH
+MAXTON, NC 28364",1989-12-15,12,No,For Profit,,,"RHA Health Services NC, LLC",False
+DOVE ROAD HOME,34G131,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"102 DOVE ROAD
+CREEDMOOR, NC 27522",919 528-2558,"102 DOVE ROAD
+CREEDMOOR, NC 27522",1989-12-12,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+CHRISTY WOODS GROUP HOME,34G132,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"10100 MT. OLIVE ROAD
+MOUNT PLEASANT, NC 28124",704 436-6013,"10100 MT. OLIVE ROAD
+MOUNT PLEASANT, NC 28124",1990-02-08,5,No,Non-Profit,,,"Piedmont Residential Development Center, Inc.",False
+FOREST BEND GROUP HOME,34G133,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"47 S OAK STREET
+BREVARD, NC 28712",828 684-1940,"47 S OAK STREET
+BREVARD, NC 28712",1990-02-21,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+PITT COUNTY GROUP HOME #3,34G134,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"6962 CHURCH STREET
+GRIFTON, NC 28530",252 524-3723,"6962 CHURCH STREET
+GRIFTON, NC 28530",1990-03-06,6,No,Non-Profit,,,"Pitt Co GH Board for MR, Autistic Persons, Inc.",False
+SCOTLAND FOREST HOME,34G135,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"21760 ANDREW J. HWY
+MAXTON, NC 28364",910 844-9824,"21760 ANDREW J. HWY
+MAXTON, NC 28364",1990-02-23,6,No,Non-Profit,,,"RHA Health Services NC, LLC",False
+LEE FOREST HOME,34G136,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1209 PELLHAM DR
+LAURINBURG, NC 28352",910 844-9664,"1209 PELLHAM DR
+LAURINBURG, NC 28352",1990-03-07,6,No,Non-Profit,,,"RHA Health Services NC, LLC",False
+SUMMERLYN,34G137,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"6113 BLUE LANTERN ROAD
+GIBSONVILLE, NC 27249",336 449-5690,"6113 BLUE LANTERN ROAD
+GIBSONVILLE, NC 27249",1990-04-06,6,No,For Profit,,,"Family Affair Care Group Management, Inc.",False
+COLLEGE PARK,34G138,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1900 LAKE DRIVE
+LAURINBURG, NC 28352",910 844-9664,"1900 LAKE DRIVE
+LAURINBURG, NC 28352",1990-04-18,6,No,Non-Profit,,,"RHA Health Services NC, LLC",False
+VOCA-NORWICH ROAD GROUP HOME,34G139,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1006 NORWICH ROAD
+CHARLOTTE, NC 28227",704 519-0077,"1006 NORWICH ROAD
+CHARLOTTE, NC 28227",1990-04-05,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+STEM ROAD HOME,34G140,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"702 STEM ROAD
+CREEDMOOR, NC 27522",919 528-1266,"702 STEM ROAD
+CREEDMOOR, NC 27522",1990-05-03,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+FRANKLIN GROUP HOME,34G141,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1101 FRANKLIN BLVD
+GASTONIA, NC 28054",704 861-9280,"1101 FRANKLIN BLVD
+GASTONIA, NC 28054",1990-05-01,5,No,Non-Profit,,,"Gaston Residential Services- ICF/MR, Inc.",False
+"QUAIL ROOST GROUP HOME, (ICF/MR)",34G142,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"102 QUAIL ROOST DRIVE
+CARRBORO, NC 27510",919 960-6167,"102 QUAIL ROOST DRIVE
+CARRBORO, NC 27510",1990-04-26,6,No,Non-Profit,,,"Residential Services, Inc.",False
+KEYWEST CENTER,34G143,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1722 ATHENS AVENUE
+DURHAM, NC 27707",919 682-9392,"1722 ATHENS AVENUE
+DURHAM, NC 27707",1990-05-22,6,No,For Profit,,,"The Keywest Center, Inc.",False
+WILDCAT GROUP HOME,34G144,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"208 WILDCAT ROAD
+DEEP GAP, NC 28618",704 243-7640,"208 WILDCAT ROAD
+DEEP GAP, NC 28618",1990-06-06,15,No,For Profit,,,"RHA Health Services NC, LLC",False
+PARK AVENUE HOME,34G145,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"105 PARK AVENUE
+CREEDMOOR, NC 27522",919 528-2558,"105 PARK AVENUE
+CREEDMOOR, NC 27522",1990-06-06,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+EXTRA SPECIAL CARE,34G146,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"6214 KILMORY DRIVE
+FAYETTEVILLE, NC 28304",910 867-1832,"6214 KILMORY DRIVE
+FAYETTEVILLE, NC 28304",1990-06-20,6,No,Non-Profit,,,"Carter Clinic, P.A.",False
+SUNNY HILL II,34G147,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"279 SUNNY HILL DRIVE
+LINCOLNTON, NC 28092",704 732-7579,"279 SUNNY HILL DRIVE
+LINCOLNTON, NC 28092",1990-07-03,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+WEST FRIENDLY,34G148,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4011 WEST FRIENDLY AVENUE
+GREENSBORO, NC 27405",336 294-5345,"4011 WEST FRIENDLY AVENUE
+GREENSBORO, NC 27405",1990-06-28,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+WILMINGTON ROAD GROUP HOME,34G149,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"800 WILMINGTON ROAD
+FAYETTEVILLE, NC 28304",910 424-2121,"800 WILMINGTON ROAD
+FAYETTEVILLE, NC 28304",1990-07-09,6,No,Non-Profit,,,"RHA Health Services NC, LLC",False
+IRENE WORTHAM RESIDENTIAL CENTER-AZALEA,34G150,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"16 AZALEA STREET
+ASHEVILLE, NC 28803",828 274-7518,"16 AZALEA STREET
+ASHEVILLE, NC 28803",1990-07-26,6,No,Non-Profit,,,"Irene Wortham Residential Center, Inc.",False
+NO PLACE LIKE HOME,34G151,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4309 NC HWY 87 SOUTH
+FAYETTEVILLE, NC 28306",910 483-4043,"4309 NC HWY 87 SOUTH
+FAYETTEVILLE, NC 28306",1990-07-27,5,No,For Profit,,,"Mid State Health Services, Inc.",False
+STRICKLAND BRIDGE HOMES A & B,34G152,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1818 STRICKLAND BRIDGE ROAD
+FAYETTEVILLE, NC 28304",910 424-2121,"1818 STRICKLAND BRIDGE ROAD
+FAYETTEVILLE, NC 28304",1990-08-09,12,No,For Profit,,,"RHA Health Services NC, LLC",False
+WILHELM PLACE HOME,34G153,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"630 WILHELM PLACE
+CONCORD, NC 28026",704 782-1706,"630 WILHELM PLACE
+CONCORD, NC 28026",1990-08-08,5,No,Non-Profit,,,"Piedmont Residential Development Center, Inc.",False
+VOCA-COLLEGE STREET,34G154,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"301 COLLEGE STREET
+WILKESBORO, NC 28697",336 667-1902,"301 COLLEGE STREET
+WILKESBORO, NC 28697",1990-10-02,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+RIDGECREST I & II,34G155,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"421 RIDGECREST AVENUE
+WEST JEFFERSON, NC 28694",336 246-7020,"421 RIDGECREST AVENUE
+WEST JEFFERSON, NC 28694",1990-09-19,12,No,For Profit,,,"RHA Health Services NC, LLC",False
+YADKIN I,34G156,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3716 WESTWOOD DRIVE
+HAMPTONVILLE, NC 27020",704 872-3257,"3716 WESTWOOD DRIVE
+HAMPTONVILLE, NC 27020",1990-09-14,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+MINERAL SPRINGS I AND II,34G157,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"410 & 414 MINERAL SPRINGS ROAD
+DURHAM, NC 27707",919 596-6193,"410 & 414 MINERAL SPRINGS ROAD
+DURHAM, NC 27707",1990-11-06,12,No,For Profit,,,"RHA Health Services NC, LLC",False
+VOCA-MALLARD DRIVE,34G158,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"6119 MALLARD DRIVE
+CHARLOTTE, NC 28227",704 519-0077,"6119 MALLARD DRIVE
+CHARLOTTE, NC 28227",1990-10-16,6,No,Non-Profit,,,VOCA Corporation of North Carolina,True
+CAROLINA LIVING AND LEARNING CENTER (CLLC),34G159,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"325 RUSSET RUN
+PITTSBORO, NC 27312",919 542-1910,"325 RUSSET RUN
+PITTSBORO, NC 27312",1990-11-16,15,No,Government,,,University of North Carolina at Chapel Hill,False
+WESTRIDGE,34G160,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1609 WESTRIDGE ROAD
+GREENSBORO, NC 27405",336 282-7477,"1609 WESTRIDGE ROAD
+GREENSBORO, NC 27405",1990-11-09,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+GUILFORD #1,34G161,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"416 BOXWOOD DRIVE
+GREENSBORO, NC 27410",336 294-6688,"416 BOXWOOD DRIVE
+GREENSBORO, NC 27410",1990-12-06,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+GUILFORD #2,34G162,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1800 STRATHMORE DRIVE
+GREENSBORO, NC 27410",336 288-1900,"1800 STRATHMORE DRIVE
+GREENSBORO, NC 27410",1990-12-06,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+THOMAS STREET HOME,34G163,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"348 THOMAS STREET
+JEFFERSON, NC 28640",336 246-7030,"348 THOMAS STREET
+JEFFERSON, NC 28640",1990-10-31,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+A JACK WALL GROUP HOME,34G164,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1213 MOSS SPRINGS ROAD
+ALBEMARLE, NC 28001",704 983-6696,"1213 MOSS SPRINGS ROAD
+ALBEMARLE, NC 28001",1990-11-06,6,No,Non-Profit,,,GHA Autism Supports,False
+VOCA-WOODBRIDGE ROAD GROUP HOME,34G165,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5901 WOODBRIDGE ROAD
+CHARLOTTE, NC 28227",704 567-0077,"5901 WOODBRIDGE ROAD
+CHARLOTTE, NC 28227",1990-12-14,6,No,Government,,,VOCA Corporation of North Carolina,True
+YADKIN II & III,34G166,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3220 & 3224 US HWY 21
+HAMPTONVILLE, NC 27020",336 468-2810,"3220 & 3224 US HWY 21
+HAMPTONVILLE, NC 27020",1990-11-01,12,No,For Profit,,,"RHA Health Services NC, LLC",False
+IDLEWOOD GROUP HOME,34G167,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"103 WOOD GLENN ROAD
+ROANOKE RAPIDS, NC 27870",252 537-4686,"103 WOOD GLENN ROAD
+ROANOKE RAPIDS, NC 27870",1991-01-04,6,No,For Profit,,,"Life, Inc.",False
+NORTHBAY GROUP HOME,34G168,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1907 NORTHBAY DRIVE
+BROWN SUMMIT, NC 27214",336 297-0890,"1907 NORTHBAY DRIVE
+BROWN SUMMIT, NC 27214",1991-01-07,5,No,For Profit,,,"Community Innovations, Inc.",False
+FRIENDWAY GROUP HOME,34G169,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"202 FRIENDWAY ROAD
+GREENSBORO, NC 27409",336 852-2636,"202 FRIENDWAY ROAD
+GREENSBORO, NC 27409",1991-01-07,6,No,For Profit,,,"Community Innovations, Inc.",False
+LYNN ROAD,34G170,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"515 LYNN ROAD
+DURHAM, NC 27707",919 596-0307,"515 LYNN ROAD
+DURHAM, NC 27707",1991-01-31,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+LAGRANGE HOME,34G171,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"405 WEST WASHINGTON STREET
+LA GRANGE, NC 28551",252 566-2080,"405 WEST WASHINGTON STREET
+LA GRANGE, NC 28551",1991-01-30,6,No,For Profit,,,"Nova IC, Inc.",False
+SANDRIDGE,34G172,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"199 CINNAMON DRIVE
+HUBERT, NC 28539",910 326-7600,"199 CINNAMON DRIVE
+HUBERT, NC 28539",1991-01-24,24,No,Non-Profit,,,"Carobell, Inc.",False
+SCI-COASTAL HOUSE I AND II,34G173,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1972 &1974 WEST LAKE SHORE DRIVE
+WILMINGTON, NC 28401",910 762-7111,"1972 &1974 WEST LAKE SHORE DRIVE
+WILMINGTON, NC 28401",1991-01-23,12,No,Non-Profit,,,"Skill Creations, Inc.",False
+STARNES GROUP HOME,34G174,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2823 STARNES ROAD
+CHARLOTTE, NC 28214",704 399-0018,"2823 STARNES ROAD
+CHARLOTTE, NC 28214",1991-02-05,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+HIGHWAY 117 GROUP HOME,34G175,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3801 US 117 NORTH
+GOLDSBORO, NC 27530",919 734-7779,"3801 US 117 NORTH
+GOLDSBORO, NC 27530",1991-02-07,6,No,For Profit,,,"NOVA IC, Inc.",False
+AIRPORT ROAD GROUP HOME,34G176,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"195 AIRPORT ROAD
+GOLDSBORO, NC 27530",919 734-8803,"195 AIRPORT ROAD
+GOLDSBORO, NC 27530",1991-02-08,6,No,For Profit,,,"NOVA IC, Inc.",False
+THE CARTER CLINIC RESIDENTIAL HOME,34G177,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"235 KINLAW RD
+FAYETTEVILLE, NC 28301",910 822-6143,"235 KINLAW RD
+FAYETTEVILLE, NC 28301",1991-02-08,6,No,Government,,,"Carter Clinic, P.A.",False
+HOLLY STREET HOME,34G178,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1509 HOLLY STREET
+GOLDSBORO, NC 27530",919 731-2760,"1509 HOLLY STREET
+GOLDSBORO, NC 27530",1991-03-01,6,No,For Profit,,,"Nova IC, Inc.",False
+NORTH DRIVE GROUP HOME,34G179,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1216 NORTH DRIVE
+GOLDSBORO, NC 27534",919 580-0188,"1216 NORTH DRIVE
+GOLDSBORO, NC 27534",1991-02-15,6,No,For Profit,,,"Nova IC, Inc.",False
+GUILFORD #3,34G180,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2600 PLEASANT RIDGE ROAD
+SUMMERFIELD, NC 27358",336 885-5090,"2600 PLEASANT RIDGE ROAD
+SUMMERFIELD, NC 27358",1991-02-26,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+VOCA-MEADOWOOD DRIVE GROUP HOME,34G181,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"401 MEADOWOOD STREET
+GREENSBORO, NC 27409",336 547-8060,"401 MEADOWOOD STREET
+GREENSBORO, NC 27409",1991-02-25,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+"LIFE, INC EDGEWOOD GROUP HOME",34G182,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"77 EDGEWOOD DR
+CHOCOWINITY, NC 27817",252 975-6468,"77 EDGEWOOD DR
+CHOCOWINITY, NC 27817",1991-02-27,6,No,For Profit,,,"LIFE, Inc.",False
+FORSYTH GROUP HOME #1,34G183,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"216 LINVILLE SPRINGS ROAD
+KERNERSVILLE, NC 27284",336 996-7457,"216 LINVILLE SPRINGS ROAD
+KERNERSVILLE, NC 27284",1991-04-03,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+BON REA DRIVE GROUP HOME,34G184,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3747 BON REA DRIVE
+CHARLOTTE, NC 28266",704 541-7334,"3747 BON REA DRIVE
+CHARLOTTE, NC 28266",1991-04-10,6,No,Non-Profit,,,Lifespan Incorporated,False
+DALMOOR DRIVE GROUP HOME,34G185,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4400 DALMOOR DRIVE
+CHARLOTTE, NC 28212",704 567-1531,"4400 DALMOOR DRIVE
+CHARLOTTE, NC 28212",1991-04-23,6,No,Non-Profit,,,"Autism Services of Mecklenburg County, Inc.",False
+HOLLOWAY STREET HOME,34G186,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4795 STANLEY ROAD
+DURHAM, NC 27704",919 528-2558,"4795 STANLEY ROAD
+DURHAM, NC 27704",1991-05-03,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+SCI-NASH HOUSE II,34G187,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3505 HAWTHORNE RD
+ROCKY MOUNT, NC 27803",252 443-4383,"3505 HAWTHORNE RD
+ROCKY MOUNT, NC 27803",1991-05-09,6,No,Non-Profit,,,"Skill Creations, Inc.",False
+ROLLINGWOOD,34G188,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4206 WEST FRIENDLY AVENUE
+GREENSBORO, NC 27405",336 294-4733,"4206 WEST FRIENDLY AVENUE
+GREENSBORO, NC 27405",1991-04-24,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+SCI-NASH HOUSE I,34G189,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1045 KINCHEN DR
+ROCKY MOUNT, NC 27803",252 442-1055,"1045 KINCHEN DR
+ROCKY MOUNT, NC 27803",1991-05-09,6,No,Non-Profit,,,"Skill Creations, Inc.",False
+BRICES CREEK ROAD HOME,34G190,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3000 BRICES CREEK ROAD
+NEW BERN, NC 28562",252 638-7900,"3000 BRICES CREEK ROAD
+NEW BERN, NC 28562",1991-05-30,6,No,Non-Profit,,,Monarch,False
+DOGWOOD HOUSE,34G191,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2401 DOGWOOD DRIVE
+NEW BERN, NC 28562",252 638-2845,"2401 DOGWOOD DRIVE
+NEW BERN, NC 28562",1991-05-22,5,No,Non-Profit,,,Monarch,False
+FORSYTH GROUP HOME #2,34G192,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"8460 BELEWS CREEK ROAD
+BELEWS CREEK, NC 27009",336 885-5090,"8460 BELEWS CREEK ROAD
+BELEWS CREEK, NC 27009",1991-06-12,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+VOCA-SIMPSON GROUP HOME,34G193,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3017 SIMPSON DRIVE
+CHARLOTTE, NC 28205",704 519-1250,"3017 SIMPSON DRIVE
+CHARLOTTE, NC 28205",1991-06-12,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-FREEDOM GROUP HOME,34G194,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5911 FREEDOM DR
+CHARLOTTE, NC 28208",704 392-3383,"5911 FREEDOM DR
+CHARLOTTE, NC 28208",1991-06-12,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-HARRISBURG ROAD GROUP HOME,34G195,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"6620 HARRISBURG ROAD
+CHARLOTTE, NC 28277",704 537-2116,"6620 HARRISBURG ROAD
+CHARLOTTE, NC 28277",1991-06-20,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+LAURELWOOD GROUP HOME,34G196,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"109 LONON AVENUE
+MARION, NC 28752",828 653-3524,"109 LONON AVENUE
+MARION, NC 28752",1991-06-18,6,No,Non-Profit,,,"ComServ, Inc.",False
+VOCA-ST. JOHN'S CHURCH ROAD GROUP HOME,34G197,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2220 ST. JOHN'S CHURCH ROAD
+CHARLOTTE, NC 28215",704 537-2423,"2220 ST. JOHN'S CHURCH ROAD
+CHARLOTTE, NC 28215",1991-07-02,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-OAK DRIVE GROUP HOME,34G201,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5416 OAK DRIVE
+CHARLOTTE, NC 28216",704 392-3657,"5416 OAK DRIVE
+CHARLOTTE, NC 28216",1991-07-16,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+"LIFE, INC LAKEVIEW",34G202,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"102 MIDWAY LANE
+ROANOKE RAPIDS, NC 27870",252 535-4031,"102 MIDWAY LANE
+ROANOKE RAPIDS, NC 27870",1991-07-17,6,No,For Profit,,,"Life, Inc.",False
+VOCA-BLAIRFIELD,34G203,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"111 BLAIRFIELD COURT
+N WILKESBORO, NC 28659",336 903-0500,"111 BLAIRFIELD COURT
+N WILKESBORO, NC 28659",1991-07-30,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+WILSON SMITH COTTAGE,34G204,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"185 MARTINDALE RD
+WINSTON SALEM, NC 27107",336 785-3813,"185 MARTINDALE RD
+WINSTON SALEM, NC 27107",1991-08-20,6,No,Non-Profit,,,Lutheran Family Services in the Carolinas,False
+"LIFE, INC DIXON ROAD GROUP HOME",34G205,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"ROUTE 1, BOX 842-B
+CHOCOWINITY, NC 27817",252 975-1220,"ROUTE 1, BOX 842-B
+CHOCOWINITY, NC 27817",1991-09-01,6,No,For Profit,,,"LIFE, Inc.",False
+ANSONVILLE GROUP HOME,34G206,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1215 ANSONVILLE/ POLKTON ROAD
+ANSONVILLE, NC 28007",704 826-6233,"1215 ANSONVILLE/ POLKTON ROAD
+ANSONVILLE, NC 28007",1991-08-02,6,No,Non-Profit,,,Monarch,False
+MYRTLEWOOD GROUP HOME,34G207,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"175 MYRTLEWOOD DRIVE
+MOUNT GILEAD, NC 27306",910 439-5496,"175 MYRTLEWOOD DRIVE
+MOUNT GILEAD, NC 27306",1991-08-02,6,No,Non-Profit,,,Monarch,False
+VOCA-PURSER GROUP HOME,34G208,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1615 PURSER DRIVE
+CHARLOTTE, NC 28215",704 535-4200,"1615 PURSER DRIVE
+CHARLOTTE, NC 28215",1991-08-01,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+BLUEWEST OPPORTUNITIES-PISGAH HOUSE,34G209,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"28 PISGAHVIEW AVENUE
+ASHEVILLE, NC 28803",828 274-8368,"28 PISGAHVIEW AVENUE
+ASHEVILLE, NC 28803",1991-09-20,6,No,For Profit,,,"BlueWest Opportunities, Inc.",False
+TUCKASEEGEE GROUP HOME,34G210,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5400 TUCKASGEE ROAD
+CHARLOTTE, NC 28208",704 393-9376,"5400 TUCKASGEE ROAD
+CHARLOTTE, NC 28208",1991-09-13,6,No,Non-Profit,,,St. Mark's Incorporated - Lifespan,False
+MAGNOLIA GROUP HOME,34G211,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"928 MAGNOLIA DRIVE
+ABERDEEN, NC 28315",910 944-2611,"928 MAGNOLIA DRIVE
+ABERDEEN, NC 28315",1991-10-02,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+HOFFMAN GROUP HOME,34G212,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"104 TEAL STREET
+HOFFMAN, NC 28347",910 281-5623,"104 TEAL STREET
+HOFFMAN, NC 28347",1991-10-04,6,No,Non-Profit,,,"RHA Health Services NC, LLC",False
+SHELBURNE PLACE,34G213,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2524 SHELBURNE PLACE
+CHARLOTTE, NC 28227",704 545-7075,"2524 SHELBURNE PLACE
+CHARLOTTE, NC 28227",1991-10-07,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+SCI-TRIANGLE HOUSE II,34G214,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1523 TYONEK DRIVE
+DURHAM, NC 27703",919 596-0619,"1523 TYONEK DRIVE
+DURHAM, NC 27703",1991-10-23,6,No,Non-Profit,,,"Skill Creations, Inc.",False
+SCI-TRIANGLE HOUSE I,34G215,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1406 TYONEK DRIVE
+DURHAM, NC 27703",919 596-4168,"1406 TYONEK DRIVE
+DURHAM, NC 27703",1991-10-23,6,No,Non-Profit,,,"Skill Creations, Inc.",False
+VOCA-OTIS STREET HOME,34G216,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2415 OTIS STREET
+DURHAM, NC 27707",919 956-7601,"2415 OTIS STREET
+DURHAM, NC 27707",1991-10-08,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+CATES STREET ICF/MR,34G217,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"306 CATES STREET
+ROXBORO, NC 27573",336 599-0973,"306 CATES STREET
+ROXBORO, NC 27573",1991-10-08,6,No,Non-Profit,,,"Person County Group Homes, Inc.",False
+VOCA-OBIE,34G218,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"322 OBIE DRIVE
+DURHAM, NC 27713",919 361-0983,"322 OBIE DRIVE
+DURHAM, NC 27713",1991-10-21,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+LITTLE RIVER GROUP HOME,34G219,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4161 NC HWY 127
+TAYLORSVILLE, NC 28681",828 632-0362,"4161 NC HWY 127
+TAYLORSVILLE, NC 28681",1991-11-08,6,No,Non-Profit,,,"ComServ, Inc.",False
+VOCA-WILSON AVENUE GROUP HOME,34G220,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2103 WILSON AVENUE
+CHARLOTTE, NC 28208",704 393-7083,"2103 WILSON AVENUE
+CHARLOTTE, NC 28208",1991-11-05,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+HICKORY AVENUE HOME,34G221,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"112 HICKORY AVENUE
+HOLLY SPRINGS, NC 27540",919 552-5407,"112 HICKORY AVENUE
+HOLLY SPRINGS, NC 27540",1991-12-04,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+JADE TREE,34G222,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"6501 JADE TREE LANE
+RALEIGH, NC 27615",919 954-0560,"6501 JADE TREE LANE
+RALEIGH, NC 27615",1991-11-08,6,No,Non-Profit,,,"Autism Services, Inc.",False
+"RALPH SCOTT LIFESERVICES, INC/LARAMIE DRIVE",34G223,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"108 LARAMIE DRIVE
+MEBANE, NC 27302",336 227-1011,"108 LARAMIE DRIVE
+MEBANE, NC 27302",1991-12-19,6,No,Non-Profit,,,"Ralph Scott Lifeservices, Inc.",False
+COUNTRY LANE,34G224,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"534 COUNTRY LANE
+HOLLY SPRINGS, NC 27540",919 552-5457,"534 COUNTRY LANE
+HOLLY SPRINGS, NC 27540",1991-12-23,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-GENTRY,34G225,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2219 GENTRY DRIVE
+DURHAM, NC 27705",919 383-1114,"2219 GENTRY DRIVE
+DURHAM, NC 27705",1992-01-14,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+FLOWE DRIVE GROUP HOME,34G227,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"628 FLOWE DRIVE
+CHARLOTTE, NC 28213",704 598-6002,"628 FLOWE DRIVE
+CHARLOTTE, NC 28213",1992-01-16,6,No,Non-Profit,,,Lifespan Incorporated,False
+VOCA-CREEKWAY,34G228,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"424 CREEKWAY DRIVE
+FUQUAY VARINA, NC 27526",919 552-4359,"424 CREEKWAY DRIVE
+FUQUAY VARINA, NC 27526",1992-02-04,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+LAKEWOOD,34G229,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"554 RIDGE LANE
+WILKESBORO, NC 28697",336 973-2725,"554 RIDGE LANE
+WILKESBORO, NC 28697",1992-03-11,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+CREEKSIDE GROUP HOME,34G230,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"723 HILLS FARM STREET
+LENOIR, NC 28645",828 757-0319,"723 HILLS FARM STREET
+LENOIR, NC 28645",1992-04-01,6,No,Non-Profit,,,"ComServ, Inc.",False
+STRAWBERRY HOUSE,34G231,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"303 NORTH HOWARD STREET
+CHADBOURN, NC 28431",910 654-5355,"303 NORTH HOWARD STREET
+CHADBOURN, NC 28431",1992-06-03,6,No,For Profit,,,"Community Innovations, Inc.",False
+NORTHRIDGE RESIDENTIAL,34G232,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"68 MITCHELL FORD ROAD
+CLARKTON, NC 28433",910 647-2801,"68 MITCHELL FORD ROAD
+CLARKTON, NC 28433",1992-06-03,6,No,For Profit,,,"Community Innovations, Inc.",False
+WEBSTER GROUP HOME,34G233,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"103 LITTLE SAVANNAH RD
+WEBSTER, NC 28788",828 586-3796,"103 LITTLE SAVANNAH RD
+WEBSTER, NC 28788",1992-05-22,6,No,Non-Profit,,,"Macon Citizens Habilities, Inc.",False
+"LIFE, INC LOCKWOOD STREET GROUP HOME",34G234,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"156 COUNTRYSIDE ROAD SW
+SUPPLY, NC 28462",910 754-2854,"156 COUNTRYSIDE ROAD SW
+SUPPLY, NC 28462",1992-06-11,6,No,Non-Profit,,,"Life, Inc.",False
+"LIFE, INC FOLLY STREET GROUP HOME",34G235,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"65 FOLLY STREET SW
+SUPPLY, NC 28462",910 754-2855,"65 FOLLY STREET SW
+SUPPLY, NC 28462",1992-06-11,6,No,Non-Profit,,,"Life, Inc.",False
+THE PINE VALLEY HOME,34G236,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1519 ROBERT E LEE DRIVE
+WILMINGTON, NC 28412",910 251-2555,"1519 ROBERT E LEE DRIVE
+WILMINGTON, NC 28412",1992-06-23,6,No,Non-Profit,,,"Cape Fear Group Homes, Inc.",False
+PINEBROOK GROUP HOME,34G237,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"301 ERKWOOD DRIVE
+HENDERSONVILLE, NC 28791",828 697-4186,"301 ERKWOOD DRIVE
+HENDERSONVILLE, NC 28791",1992-05-22,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+MANTLE COURT GROUP HOME,34G238,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4319 MANTLE COURT
+CHARLOTTE, NC 28205",704 567-8082,"4319 MANTLE COURT
+CHARLOTTE, NC 28205",1992-06-24,6,No,Non-Profit,,,"Autism Services of Mecklenburg County, Inc.",False
+THOMAS S DECATUR HOME,34G239,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"7559 DECATUR DRIVE
+FAYETTEVILLE, NC 28303",910 867-7675,"7559 DECATUR DRIVE
+FAYETTEVILLE, NC 28303",1992-07-15,6,No,For Profit,,,"Midstate Health Systems, Inc.",False
+DICKENS DRIVE HOME,34G240,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"113 DICKENS DRIVE
+RALEIGH, NC 27610",919 250-0907,"113 DICKENS DRIVE
+RALEIGH, NC 27610",1992-07-08,6,No,Non-Profit,,,"Autism Services, Inc.",False
+THE ARCHES-HORIZONS RESIDENTIAL CARE CENTER,34G241,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5900 BETHABARA PARK BOULEVARD
+WINSTON SALEM, NC 27106",336 661-2190,"5900 BETHABARA PARK BOULEVARD
+WINSTON SALEM, NC 27106",1992-06-16,10,No,Non-Profit,,,"Horizons Residential Care Center, Inc.",False
+WESTMINISTER,34G242,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1111 WESTRIDGE ROAD
+GREENSBORO, NC 27405",336 852-3855,"1111 WESTRIDGE ROAD
+GREENSBORO, NC 27405",1992-06-30,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+WESTSIDE RESIDENTIAL,34G243,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"467 SOUTH CREEK ROAD
+ORRUM, NC 28369",910 618-0777,"467 SOUTH CREEK ROAD
+ORRUM, NC 28369",1992-07-16,6,No,For Profit,,,"Community Innovations, Inc.",False
+SCI-DUPLIN HOUSE,34G244,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"120 ORVILLE STREET
+WARSAW, NC 28398",910 293-3068,"120 ORVILLE STREET
+WARSAW, NC 28398",1992-07-31,6,No,Non-Profit,,,"Skill Creations, Inc.",False
+ROBINHOOD GROUP HOME,34G245,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1507 ROBINHOOD RD
+WILMINGTON, NC 28401",910 762-0501,"1507 ROBINHOOD RD
+WILMINGTON, NC 28401",1992-07-28,6,No,Non-Profit,,,"Cape Fear Group Homes, Inc.",False
+KENWOOD DRIVE HOME,34G246,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5004 KENWOOD DRIVE
+DURHAM, NC 27712",919 821-0256,"5004 KENWOOD DRIVE
+DURHAM, NC 27712",1992-07-31,6,No,Non-Profit,,,"Autism Services, Inc.",False
+LINOAK GROUP HOME,34G247,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3175 BANK ROAD
+LINCOLNTON, NC 28092",828 428-0552,"3175 BANK ROAD
+LINCOLNTON, NC 28092",1992-07-29,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+HOLLINGSWOOD GROUP HOME,34G248,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"214 HOLLINGSWOOD DRIVE
+STATESVILLE, NC 28677",704 872-3257,"214 HOLLINGSWOOD DRIVE
+STATESVILLE, NC 28677",1992-08-05,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+HOLY ANGELS SERVICES-MCAULEY RESIDENCES,34G249,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"MCAULEY CIRCLE
+BELMONT, NC 28012",704 825-4161,"MCAULEY CIRCLE
+BELMONT, NC 28012",1992-08-27,48,No,Non-Profit,,,"Holy Angels Services, Inc.",False
+RIDGEFIELD HOME,34G250,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"730 FISHER RIDGE DRIVE
+MONROE, NC 28110",704 283-2764,"730 FISHER RIDGE DRIVE
+MONROE, NC 28110",1992-09-16,6,No,Non-Profit,,,Monarch,False
+KAREN LANE HOME,34G251,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3224 KAREN LANE
+MONROE, NC 28112",704 782-2132,"3224 KAREN LANE
+MONROE, NC 28112",1992-09-16,6,No,Non-Profit,,,Monarch,False
+RIDGELY OAK,34G252,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1307 WESTRIDGE RD
+GREENSBORO, NC 27410",336 288-3482,"1307 WESTRIDGE RD
+GREENSBORO, NC 27410",1992-09-02,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+HELMSDALE GROUP HOME,34G253,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1317 HELMSDALE DR
+CARY, NC 27511",919 469-3280,"1317 HELMSDALE DR
+CARY, NC 27511",1992-10-15,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+"LIFE, INC RAVEN RIDGE GROUP HOME",34G254,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4105 RAVEN RIDGE DR
+WILSON, NC 27893",252 291-8348,"4105 RAVEN RIDGE DR
+WILSON, NC 27893",1992-10-29,6,No,For Profit,,,"Life, Inc.",False
+SHADYLAWN,34G255,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"901 SHADYLAWN DR
+CHAPEL HILL, NC 27516",919 933-4335,"901 SHADYLAWN DR
+CHAPEL HILL, NC 27516",1992-11-13,6,No,Non-Profit,,,"Residential Services, Inc.",False
+RIVERSIDE RESIDENTIAL,34G256,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"353 ELM STREET
+FAIR BLUFF, NC 28439",910 649-6460,"353 ELM STREET
+FAIR BLUFF, NC 28439",1992-12-02,6,No,For Profit,,,"Community Innovations, Inc.",False
+MIDLAKE RESIDENTIAL,34G257,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"68 HILLSIDE STREET
+CLARKTON, NC 28433",910 647-4421,"68 HILLSIDE STREET
+CLARKTON, NC 28433",1992-12-02,6,No,For Profit,,,"Community Innovations, Inc.",False
+IOTLA STREET GROUP HOME,34G258,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"406 IOTLA STREET
+FRANKLIN, NC 28734",828 524-5888,"406 IOTLA STREET
+FRANKLIN, NC 28734",1992-12-15,6,No,Non-Profit,,,"Macon Citizens Habilities, Inc.",False
+MCKEEL LOOP ROAD HOME,34G260,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5910 FARMWOOD LOOP ROAD
+WILSON, NC 27893",252 291-9647,"5910 FARMWOOD LOOP ROAD
+WILSON, NC 27893",1992-12-17,6,No,For Profit,,,"Life, Inc.",False
+SCI-EAST,34G261,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"338 COOPER DRIVE
+WINTERVILLE, NC 28590",919 731-2788,"338 COOPER DRIVE
+WINTERVILLE, NC 28590",1992-12-17,12,No,Non-Profit,,,"Skill Creations, Inc.",False
+VOCA-WOODLAND,34G262,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"123 WOODLAND DR
+RUTHERFORDTON, NC 28139",828 286-1099,"123 WOODLAND DR
+RUTHERFORDTON, NC 28139",1992-12-09,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-YOUNG GROUP HOME,34G263,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"211 YOUNG STREET
+SHELBY, NC 28150",828 482-2285,"211 YOUNG STREET
+SHELBY, NC 28150",1992-12-09,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+HARTLAND GROUP HOME,34G264,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2307 HARTLAND ROAD
+MORGANTON, NC 28655",828 757-0319,"2307 HARTLAND ROAD
+MORGANTON, NC 28655",1992-12-16,6,No,Non-Profit,,,"ComServ, Inc.",False
+TAR RIVER,34G265,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"498 & 500 SEAN DRIVE
+GREENVILLE, NC 27834",252 758-1101,"498 & 500 SEAN DRIVE
+GREENVILLE, NC 27834",1993-01-17,30,No,For Profit,,,"RHA Health Services NC, LLC",False
+VOCA-APPLE VALLEY,34G266,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1443 OLD HWY 60
+WILKESBORO, NC 28697",336 838-2199,"1443 OLD HWY 60
+WILKESBORO, NC 28697",1993-01-29,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+BLUEWEST OPPORTUNITIES-KENMORE HOUSE,34G267,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1 KENMORE STREET
+ASHEVILLE, NC 28803",828 277-0204,"1 KENMORE STREET
+ASHEVILLE, NC 28803",1993-04-15,6,No,Non-Profit,,,"BlueWest Opportunities, Inc.",False
+MOORE COUNTY HOME FOR AUTISTIC ADULTS,34G268,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1112 DEVONSHIRE TRAIL
+ABERDEEN, NC 28315",910 944-1047,"1112 DEVONSHIRE TRAIL
+ABERDEEN, NC 28315",1993-04-01,6,No,For Profit,,,"Greater Image Healthcare, Corp.",False
+HICKORY II GROUP HOME,34G269,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"322 HICKORY AVE
+SANFORD, NC 27330",919 775-3094,"322 HICKORY AVE
+SANFORD, NC 27330",1993-12-07,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-SIXTH STREET GROUP HOME,34G270,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"201 NORTH SIXTH STREET
+SANFORD, NC 27330",919 775-4496,"201 NORTH SIXTH STREET
+SANFORD, NC 27330",1993-04-07,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-ROLLINS GROUP HOME,34G271,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"297 BOB ROLLINS ROAD
+FOREST CITY, NC 28043",828 248-1175,"297 BOB ROLLINS ROAD
+FOREST CITY, NC 28043",1993-05-17,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+CREST ROAD GROUP HOME,34G272,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"114 GREENHOUSE LANE
+SOUTHERN PINES, NC 28387",910 496-0661,"114 GREENHOUSE LANE
+SOUTHERN PINES, NC 28387",1993-06-02,6,No,For Profit,,,"Greater Image Healthcare, Corp.",False
+NORTHSIDE GROUP HOME,34G273,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3301 BARKSDALE ROAD
+FAYETTEVILLE, NC 28301",910 822-4455,"3301 BARKSDALE ROAD
+FAYETTEVILLE, NC 28301",1993-06-02,6,No,For Profit,,,"Sophia B. Pierce & Associates, Inc.",False
+LOCKLEY ROAD,34G274,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4617 LOCKLEY RD
+HOLLY SPRINGS, NC 27540",919 303-5665,"4617 LOCKLEY RD
+HOLLY SPRINGS, NC 27540",1993-06-11,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+SCI-ROANOKE HOUSE,34G275,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"103 & 105 CLEARFIELD DRIVE
+ROANOKE RAPIDS, NC 27870",252 308-0900,"103 & 105 CLEARFIELD DRIVE
+ROANOKE RAPIDS, NC 27870",1993-06-03,12,No,Non-Profit,,,"Skill Creations, Inc.",False
+HOLDEN GROUP HOME,34G276,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"517 NORTH HOLDEN ROAD
+GREENSBORO, NC 27410",336 547-0780,"517 NORTH HOLDEN ROAD
+GREENSBORO, NC 27410",1993-06-15,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+MASON STREET,34G277,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"306 N MASON STREET
+APEX, NC 27502",919 387-5881,"306 N MASON STREET
+APEX, NC 27502",1993-07-27,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+AVENT FERRY HOME,34G278,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"904 AVENT FERRY ROAD
+HOLLY SPRINGS, NC 27540",919 557-6336,"904 AVENT FERRY ROAD
+HOLLY SPRINGS, NC 27540",1993-07-16,6,No,Non-Profit,,,"Community Innovations, Inc.",False
+VOCA-OLIVE HOME,34G279,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"707 EAST OLIVE STREET
+APEX, NC 27502",919 387-7080,"707 EAST OLIVE STREET
+APEX, NC 27502",1993-07-27,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-SECOND AVENUE GROUP HOME,34G280,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"49 SECOND AVENUE SE
+TAYLORSVILLE, NC 28681",828 635-1757,"49 SECOND AVENUE SE
+TAYLORSVILLE, NC 28681",1993-07-13,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-GREENWOOD GROUP HOME,34G281,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"105 GREENWOOD CIRCLE
+SMITHFIELD, NC 27577",919 934-1963,"105 GREENWOOD CIRCLE
+SMITHFIELD, NC 27577",1993-09-09,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-LAURELWOOD,34G282,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"200 LAURELWOOD DR
+SMITHFIELD, NC 27577",919 934-1839,"200 LAURELWOOD DR
+SMITHFIELD, NC 27577",1993-09-16,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+TROTTERS BLUFF,34G283,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"912 AVENT FERRY ROAD
+HOLLY SPRINGS, NC 27540",919 557-6337,"912 AVENT FERRY ROAD
+HOLLY SPRINGS, NC 27540",1993-09-01,6,No,Non-Profit,,,"Community Innovations, Inc.",False
+COUNTRYVIEW RESIDENTIAL,34G284,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"359 FIRETOWER ROAD
+RICHLANDS, NC 28574",910 455-5863,"359 FIRETOWER ROAD
+RICHLANDS, NC 28574",1993-09-29,6,No,For Profit,,,"Community Innovations, Inc.",False
+"LIFE, INC NINE FOOT ROAD GROUP HOME",34G285,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1229 NINE FOOT ROAD
+NEWPORT, NC 28570",252 223-3774,"1229 NINE FOOT ROAD
+NEWPORT, NC 28570",1993-09-23,6,No,For Profit,,,"LIFE, Inc.",False
+"LIFE, INC GREY FOX RUN GROUP HOME",34G286,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"312 GREY FOX RUN
+NEWPORT, NC 28570",252 223-2466,"312 GREY FOX RUN
+NEWPORT, NC 28570",1993-09-23,6,No,For Profit,,,"LIFE, Inc.",False
+VOCA-LAUREL GROUP HOME,34G287,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"51 LAUREL STREET
+GRANITE FALLS, NC 28630",828 396-5879,"51 LAUREL STREET
+GRANITE FALLS, NC 28630",1993-07-23,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+"LIFE, INC GREEN TEE LANE",34G288,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1320 GREEN TEE LANE
+ROCKY MOUNT, NC 27804",252 972-6975,"1320 GREEN TEE LANE
+ROCKY MOUNT, NC 27804",1993-11-05,6,No,For Profit,,,"LIFE, Inc.",False
+VOCA-SANDBURG GROUP HOME,34G289,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"9317 SANDBURG AVENUE
+CHARLOTTE, NC 28213",704 548-0152,"9317 SANDBURG AVENUE
+CHARLOTTE, NC 28213",1993-10-01,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-OAKHAVEN DRIVE GROUP HOME,34G290,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"12516 OAKHAVEN DRIVE
+CHARLOTTE, NC 28273",704 588-7436,"12516 OAKHAVEN DRIVE
+CHARLOTTE, NC 28273",1993-11-17,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+VOCA-TODDVILLE ROAD GROUP HOME,34G291,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1809 TODDVILLE ROAD
+CHARLOTTE, NC 28214",704 391-8077,"1809 TODDVILLE ROAD
+CHARLOTTE, NC 28214",1993-12-15,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+ROCKWOOD,34G292,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4409 ROCKWOOD DRIVE
+RALEIGH, NC 27612",919 571-0230,"4409 ROCKWOOD DRIVE
+RALEIGH, NC 27612",1993-12-01,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+STONEGATE,34G293,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"8609 STONEGATE DR
+RALEIGH, NC 27615",919 847-8628,"8609 STONEGATE DR
+RALEIGH, NC 27615",1993-10-19,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+KONNOAK GROUP HOME,34G294,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2901 KONNOAK DRIVE
+WINSTON SALEM, NC 27127",336 788-5543,"2901 KONNOAK DRIVE
+WINSTON SALEM, NC 27127",1993-12-17,6,No,Non-Profit,,,ResCare of North Carolina-EduCare Community Living,True
+PINEWOOD GROUP HOME,34G295,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2101 BEAUTY STREET
+STATESVILLE, NC 28625",704 872-3257,"2101 BEAUTY STREET
+STATESVILLE, NC 28625",1993-12-21,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+STONERIDGE,34G296,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"222 UNION HEIGHTS BOULEVARD
+SALISBURY, NC 28144",704 278-9681,"222 UNION HEIGHTS BOULEVARD
+SALISBURY, NC 28144",1993-12-15,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+ROANOKE PLACE,34G297,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"704 CAROLINA AVENUE
+AHOSKIE, NC 27910",252 209-0111,"704 CAROLINA AVENUE
+AHOSKIE, NC 27910",1994-03-16,6,No,For Profit,,,"Community Innovations, Inc.",False
+LUKE STREET,34G298,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"206 LUKE STREET
+EDENTON, NC 27932",252 482-8900,"206 LUKE STREET
+EDENTON, NC 27932",1994-04-13,6,No,For Profit,,,"Life, Inc.",False
+HOLLIDAY'S PLACE GROUP HOME,34G299,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1108 QUAIL-MEADOW DRIVE
+FAYETTEVILLE, NC 28314",910 864-4300,"1108 QUAIL-MEADOW DRIVE
+FAYETTEVILLE, NC 28314",1994-04-13,6,No,For Profit,,,"D & L Health Care Services, Incorporated",False
+FRANK STREET ICF/MR,34G300,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"719 FRANK STREET
+ROXBORO, NC 27573",336 599-6722,"719 FRANK STREET
+ROXBORO, NC 27573",1994-04-08,6,No,Non-Profit,,,"Person County Group Homes, Inc.",False
+CHESTERFIELD GROUP HOME,34G301,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2287 HARTLAND ROAD
+MORGANTON, NC 28655",828 757-0319,"2287 HARTLAND ROAD
+MORGANTON, NC 28655",1994-06-02,6,No,Non-Profit,,,"ComServ, Inc.",False
+PINE RIDGE GROUP HOME,34G302,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"739 ARTHUR MADDOX ROAD
+SANFORD, NC 27330",919 774-9747,"739 ARTHUR MADDOX ROAD
+SANFORD, NC 27330",1994-07-27,6,No,For Profit,,,"Community Innovations, Inc.",False
+MONROE ROAD,34G303,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"7621 MONROE ROAD
+CHARLOTTE, NC 28212",704 535-7502,"7621 MONROE ROAD
+CHARLOTTE, NC 28212",1994-08-11,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+"RALPH SCOTT LIFESERVICES, INC/VETERANS DRIVE",34G304,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"500 VETERANS DRIVE
+ELON COLLEGE, NC 27244",336 227-1011,"500 VETERANS DRIVE
+ELON COLLEGE, NC 27244",1994-08-05,6,No,Non-Profit,,,"Ralph Scott Lifeservices, Inc.",False
+BROOKWOOD,34G305,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"313 EAST BROOKWOOD AVENUE
+LIBERTY, NC 27298",336 622-3003,"313 EAST BROOKWOOD AVENUE
+LIBERTY, NC 27298",1994-08-03,6,No,For Profit,,,"Community Innovations, Inc.",False
+SYDNOR STREET GROUP HOME,34G306,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"134 SYDNOR STREET
+MOUNT AIRY, NC 27030",336 789-3451,"134 SYDNOR STREET
+MOUNT AIRY, NC 27030",1994-09-08,6,No,Non-Profit,,,"Surry-Yadkin Residential Services, Inc.",False
+TIMBERLEA GROUP HOME,34G307,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5691 MACK LINEBERRY ROAD
+CLIMAX, NC 27233",336 370-4177,"5691 MACK LINEBERRY ROAD
+CLIMAX, NC 27233",1994-08-23,6,No,For Profit,,,"Community Innovations, Inc.",False
+HEATHCROFT,34G308,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3046 HEATHCROFT COURT
+CHARLOTTE, NC 28269",704 593-0674,"3046 HEATHCROFT COURT
+CHARLOTTE, NC 28269",1994-09-15,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+WASHINGTON STREET EAST GROUP HOME,34G309,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"407 WEST WASHINGTON STREET
+LA GRANGE, NC 28551",252 566-2955,"407 WEST WASHINGTON STREET
+LA GRANGE, NC 28551",1994-10-07,6,No,For Profit,,,"NOVA IC, Inc.",False
+"LIFE, INC CHEROKEE TRAIL GROUP HOME",34G310,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"105 CHEROKEE TRAIL
+WILMINGTON, NC 28409",910 799-9517,"105 CHEROKEE TRAIL
+WILMINGTON, NC 28409",1994-10-12,6,No,Non-Profit,,,"LIFE, Inc.",False
+"RALPH SCOTT LIFESERVICES, INC/ROSEMONT STREET",34G311,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"304 ROSEMONT STREET
+GIBSONVILLE, NC 27217",336 227-1011,"304 ROSEMONT STREET
+GIBSONVILLE, NC 27217",1994-10-05,6,No,Non-Profit,,,"Ralph Scott Lifeservices, Inc.",False
+RAVENDALE DRIVE GROUP HOME,34G312,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1123 RAVENDALE DRIVE
+CHARLOTTE, NC 28216",704 525-6772,"1123 RAVENDALE DRIVE
+CHARLOTTE, NC 28216",1994-11-18,6,No,Non-Profit,,,"Autism Services of Mecklenburg County, Inc.",False
+PARK DRIVE GROUP HOME,34G313,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1305 PARK DRIVE
+MOUNT AIRY, NC 27030",336 789-6697,"1305 PARK DRIVE
+MOUNT AIRY, NC 27030",1994-10-26,6,No,Non-Profit,,,"Surry-Yadkin Residential Services, Inc.",False
+BURTONWOOD CIRCLE HOME,34G314,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1710 BURTONWOOD CIRCLE
+CHARLOTTE, NC 28212",704 536-0364,"1710 BURTONWOOD CIRCLE
+CHARLOTTE, NC 28212",1994-11-02,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+CORBEL RESIDENTIAL,34G315,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"483 CREEK ROAD
+ORRUM, NC 28369",910 738-1976,"483 CREEK ROAD
+ORRUM, NC 28369",1994-12-14,6,No,For Profit,,,"Community Innovations, Inc.",False
+LEAVES,34G316,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"7106 LEAVES LANE
+CHARLOTTE, NC 28213",704 529-0446,"7106 LEAVES LANE
+CHARLOTTE, NC 28213",1994-12-14,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+LAKEVIEW,34G317,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5927 LAKEVIEW DRIVE
+CHARLOTTE, NC 28270",704 366-5108,"5927 LAKEVIEW DRIVE
+CHARLOTTE, NC 28270",1995-01-20,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+"LIFE, INC WILSON STREET GROUP HOME",34G318,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1116 WILSON STREET EXTENSION
+PLYMOUTH, NC 27962",252 793-6440,"1116 WILSON STREET EXTENSION
+PLYMOUTH, NC 27962",1995-02-22,6,No,For Profit,,,"Life, Inc.",False
+DAUGHTRY FIELD ROAD GROUP HOME,34G319,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"135 DAUGHTRY FIELD ROAD
+MOUNT OLIVE, NC 28365",919 658-8215,"135 DAUGHTRY FIELD ROAD
+MOUNT OLIVE, NC 28365",1995-03-02,6,No,For Profit,,,"Nova IC, Inc.",False
+"LIFE, INC OLD ROPER ROAD GROUP HOME",34G320,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"206 A OLD ROPER ROAD
+PLYMOUTH, NC 27962",252 793-9177,"206 A OLD ROPER ROAD
+PLYMOUTH, NC 27962",1995-02-22,6,No,For Profit,,,"Life, Inc.",False
+RAYSIDE A & B,34G321,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"617 & 619 RAY AVENUE
+HENDERSONVILLE, NC 28739",828 697-4484,"617 & 619 RAY AVENUE
+HENDERSONVILLE, NC 28739",1995-03-07,8,No,For Profit,,,"RHA Health Services NC, LLC",False
+BROWNE GROUP HOME,34G322,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"8205 BROWNE DRIVE
+CHARLOTTE, NC 28269",704 529-0446,"8205 BROWNE DRIVE
+CHARLOTTE, NC 28269",1995-03-22,6,No,For Profit,,,EduCare Community Living Corporation-North Carolina,True
+BLUEWEST OPPORTUNITIES-MONTFORD HOUSE,34G323,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5 KENMORE STREET
+ASHEVILLE, NC 28803",828 274-8368,"5 KENMORE STREET
+ASHEVILLE, NC 28803",1995-04-07,5,No,Non-Profit,,,"BlueWest Opportunities, Inc.",False
+MT GILEAD CHILDREN'S HOME,34G324,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"205 EAST INGRAM AVENUE
+MOUNT GILEAD, NC 27306",910 439-1307,"205 EAST INGRAM AVENUE
+MOUNT GILEAD, NC 27306",1995-03-29,6,No,Non-Profit,,,Monarch,False
+"LIFE, INC SLATESTONE ROAD GROUP HOME",34G325,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"332 SLATESTONE ROAD
+WASHINGTON, NC 27889",252 946-9055,"332 SLATESTONE ROAD
+WASHINGTON, NC 27889",1995-04-25,6,No,For Profit,,,"Life, Inc.",False
+"LIFE, INC TWIN ACRES GROUP HOME",34G326,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2767 WILDCAT ROAD
+WILLIAMSTON, NC 27892",252 792-9158,"2767 WILDCAT ROAD
+WILLIAMSTON, NC 27892",1995-04-25,6,No,For Profit,,,"Life, Inc.",False
+ELLENDALE GROUP HOME,34G327,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4165 NC HWY 127
+TAYLORSVILLE, NC 28681",828 757-0209,"4165 NC HWY 127
+TAYLORSVILLE, NC 28681",1995-05-09,6,No,Government,,,"ComServ, Inc.",False
+GAIL B HANKS GROUP HOME,34G328,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5917 ROWAN WAY
+CHARLOTTE, NC 28214",704 391-5559,"5917 ROWAN WAY
+CHARLOTTE, NC 28214",1995-05-17,6,No,Non-Profit,,,"Autism Services of Mecklenburg County, Inc.",False
+KIMBERLY ROAD,34G329,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1503 KIMBERLY ROAD
+NEW BERN, NC 28562",252 637-7098,"1503 KIMBERLY ROAD
+NEW BERN, NC 28562",1995-06-07,6,No,Non-Profit,,,Monarch,False
+"LIFE, INC CHOWAN GROUP HOME",34G330,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"249 COKE AVE
+EDENTON, NC 27932",252 482-5456,"249 COKE AVE
+EDENTON, NC 27932",1995-07-19,6,No,For Profit,,,"Life, Inc.",False
+"LIFE, INC ALBEMARLE GROUP HOME",34G331,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"243 COKE AVENUE
+EDENTON, NC 27932",252 482-7909,"243 COKE AVENUE
+EDENTON, NC 27932",1995-07-19,6,No,For Profit,,,"Life, Inc.",False
+NORWOOD AVENUE HOME,34G332,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2510 NORWOOD AVENUE
+GOLDSBORO, NC 27530",919 731-4745,"2510 NORWOOD AVENUE
+GOLDSBORO, NC 27530",1995-07-12,6,No,For Profit,,,"NOVA-IC, Inc.",False
+"LIFE, INC COKE AVENUE GROUP HOME",34G333,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"255 COKE AVE
+EDENTON, NC 27932",252 482-8121,"255 COKE AVE
+EDENTON, NC 27932",1995-07-19,6,No,For Profit,,,"Life, Inc.",False
+IWRC-DOGWOOD,34G334,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2 ROSE STREET W
+ASHEVILLE, NC 28803",828 274-7518,"2 ROSE STREET W
+ASHEVILLE, NC 28803",1995-08-04,6,No,Non-Profit,,,"Irene Wortham Residential Center, Inc.",False
+RSI - CHRISTOPHER ROAD,34G335,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"802 CHRISTOPHER ROAD
+CHAPEL HILL, NC 27514",919 929-0732,"802 CHRISTOPHER ROAD
+CHAPEL HILL, NC 27514",1995-10-25,6,No,Non-Profit,,,"Residential Services, Inc.",False
+FOREST HILLS GROUP HOME,34G336,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1913 FOREST HILLS DRIVE
+GREENVILLE, NC 27858",252 756-6467,"1913 FOREST HILLS DRIVE
+GREENVILLE, NC 27858",1995-11-09,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+KING GEORGE GROUP HOME,34G337,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"323 KING GEORGE ROAD
+GREENVILLE, NC 27834",252 321-5813,"323 KING GEORGE ROAD
+GREENVILLE, NC 27834",1995-11-09,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+"LIFE, INC MINUTE MAN GROUP HOME",34G338,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"388 MINUTE MAN LANE
+WASHINGTON, NC 27889",252 946-5563,"388 MINUTE MAN LANE
+WASHINGTON, NC 27889",1995-11-29,6,No,For Profit,,,"LIFE, Inc.",False
+"LIFE, INC BEAUFORT HEIGHTS GROUP HOME",34G339,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"103 CIRCLE STREET
+WASHINGTON, NC 27889",252 946-4133,"103 CIRCLE STREET
+WASHINGTON, NC 27889",1995-11-29,6,No,For Profit,,,"LIFE, Inc.",False
+PLAYMORE GROUP HOME,34G340,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3252 PLAYMORE BEACH ROAD
+MORGANTON, NC 28655",828 757-0209,"3252 PLAYMORE BEACH ROAD
+MORGANTON, NC 28655",1995-12-15,6,No,Non-Profit,,,"Com-Serv, Inc.",False
+WOODING PLACE GROUP HOME,34G341,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"112 WOODING PLACE
+KINGS MOUNTAIN, NC 28086",704 867-3155,"112 WOODING PLACE
+KINGS MOUNTAIN, NC 28086",1995-12-13,6,No,For Profit,,,Educare Community Living Corporation - North Carolina,False
+PENCE PLACE,34G342,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"295 AIRPORT ROAD
+ROCKINGHAM, NC 28379",919 734-4386,"295 AIRPORT ROAD
+ROCKINGHAM, NC 28379",1996-04-18,9,No,Non-Profit,,,Monarch,False
+LOWER CREEK GROUP HOME,34G343,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"3256 PLAYMORE BEACH RD
+MORGANTON, NC 28655",828 758-2019,"3256 PLAYMORE BEACH RD
+MORGANTON, NC 28655",1996-05-16,6,No,Non-Profit,,,"ComServ, Inc.",False
+BLUEWEST OPPORTUNITIES-NEW STOCK HOUSE,34G344,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"122 WOODLAND HILLS ROAD
+ASHEVILLE, NC 28804",828 658-9842,"122 WOODLAND HILLS ROAD
+ASHEVILLE, NC 28804",1997-11-25,6,No,Non-Profit,,,"BlueWest Opportunities, Inc.",False
+ROUSE'S GROUP HOME #6,34G345,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"5820 NC HIGHWAY 135
+STONEVILLE, NC 27048",336 427-0609,"5820 NC HIGHWAY 135
+STONEVILLE, NC 27048",1998-01-14,6,No,Non-Profit,,,"Rouse's Group Home, Inc.",False
+"LIFE, INC KING STREET GROUP HOME",34G346,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"117 KING STREET
+HALIFAX, NC 27839",252 583-1984,"117 KING STREET
+HALIFAX, NC 27839",1998-03-05,6,No,Non-Profit,,,"Life, Inc.",False
+MCFARLAND ROAD,34G347,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"214 MCFARLAND ROAD
+ENFIELD, NC 27823",252 445-1498,"214 MCFARLAND ROAD
+ENFIELD, NC 27823",1998-03-05,6,No,For Profit,,,"Life, Inc.",False
+CAROLINA FARMS GROUP HOME #1,34G348,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"31719 HERB FARM CIRCLE
+ALBEMARLE, NC 28001",704 983-2059,"31719 HERB FARM CIRCLE
+ALBEMARLE, NC 28001",2004-02-26,6,No,Non-Profit,,,GHA Autism Supports,False
+CAROLINA FARMS GROUP HOME #2,34G349,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"31713 HERB FARM CIRCLE
+ALBEMARLE, NC 28001",704 983-2569,"31713 HERB FARM CIRCLE
+ALBEMARLE, NC 28001",2004-09-01,6,No,Non-Profit,,,GHA Autism Supports,False
+CAROLINA FARMS GROUP HOME #3,34G350,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"31713 HERB FARM CIRCLE
+ALBEMARLE, NC 28001",704 983-2544,"31713 HERB FARM CIRCLE
+ALBEMARLE, NC 28001",2005-11-16,6,No,Non-Profit,,,GHA Autism Supports,False
+BASS LAKE,34G351,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"408 BASS LAKE
+HOLLY SPRINGS, NC 27540",919 557-3844,"408 BASS LAKE
+HOLLY SPRINGS, NC 27540",2011-09-14,6,No,For Profit,,,VOCA Corporation of North Carolina,True
+HILLTOP HOME,34G352,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"2820 KIDD ROAD
+RALEIGH, NC 27610",919 231-8315,"2820 KIDD ROAD
+RALEIGH, NC 27610",2011-10-25,22,No,Non-Profit,,,"Hilltop Home, Inc.",False
+CURRY HOUSE,34G353,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"1793 BRILEY ROAD
+GREENVILLE, NC 27834",252 752-0516,"1793 BRILEY ROAD
+GREENVILLE, NC 27834",2013-02-01,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+EMORY ROAD HOME,34G354,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"20 EMORY ROAD
+ASHEVILLE, NC 28806",828 252-5008,"20 EMORY ROAD
+ASHEVILLE, NC 28806",2013-02-01,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+GUILFORD IV,34G355,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"404 SKEET CLUB ROAD
+HIGH POINT, NC 27265",336 885-0461,"404 SKEET CLUB ROAD
+HIGH POINT, NC 27265",2013-04-16,6,No,For Profit,,,"RHA Health Services NC, LLC",False
+ENOCH DRIVE,34G356,Intermediate Care Facilities for Individuals with Intellectual Disabilities (ICF/IID),(IV) Atlanta,NC,"4109 ENOCH DRIVE
+CHARLOTTE, NC 28269",704 405-1518,"4109 ENOCH DRIVE
+CHARLOTTE, NC 28269",2014-03-10,6,No,For Profit,,,VOCA Corporation of North Carolina,True
